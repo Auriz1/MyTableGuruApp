@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Dining cities">
+    <menu>
+        <item
+            android:id="@+id/nav_nicosia"
+            android:title="Nicosia">
+        </item>
+        <item
+            android:id="@+id/nav_limassol"
+            android:title="Limassol">
+        </item>
+        <item
+            android:id="@+id/nav_larnaka"
+            android:title="Larnaca">
+        </item>
+    </menu>
+    </item>
+</menu>
